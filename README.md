@@ -1,4 +1,4 @@
-# Intensivão Python
+# Intensivão de Python
 
 ![Logo Python](https://www.python.org/static/community_logos/python-logo-inkscape.svg)
 
