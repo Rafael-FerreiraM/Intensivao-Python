@@ -6,7 +6,7 @@
 #### Projetos desenvolvidos durante a semana do "Intensivão Python" da Hashtag Treinamentos.
 <div>  
     <p>
-        Do dia 08/02/2022 até 11/02/20202a hashtag treinamentos ofereceu a semana "intensivão python" onde serão desenvolvidos 4 projetos utilizando a linguagem python e algumas de suas principais bibliotecas.
+        Do dia 08/02/2022 até 11/02/20202 a hashtag treinamentos ofereceu a semana "intensivão python" onde serão desenvolvidos 4 projetos utilizando a linguagem python e algumas de suas principais bibliotecas.
     </p>
     <p>
         Sendo estes:
